@@ -14,7 +14,7 @@
 ## Project:
 [Project description](Project_Proposal.pdf)
 
-![Database ER Diagram](/documentation/Database ER.png)
+![Database ER Diagram](/documentation/Database%20ER.png)
 
 ![Use case description](/documentation/usecase_diagram.png)
 
