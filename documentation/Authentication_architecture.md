@@ -15,11 +15,11 @@ interface.
 
 - Third-party providers authentication consists of logging in using either Google account or Facebook account.
 
-1. [Password Sign In Authentication](./documentation/password_authentication.md) 
+1. [Password Sign In Authentication](/documentation/password_authentication.md) 
 
-2. [Google Sign In Authentication](./documentation/google_authentication.md) 
+2. [Google Sign In Authentication](/documentation/google_authentication.md) 
 
-3. [Facebook Sign In Authentication](./documentation/facebook_authentication.md) 
+3. [Facebook Sign In Authentication](/documentation/facebook_authentication.md) 
 
 - In order to use Etoet, users also need to add their phone.
 [Phone number authentication](/documentation/phone_authentication.md)
