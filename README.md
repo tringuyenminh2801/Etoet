@@ -16,7 +16,7 @@
 
 ![Database ER Diagram](./documentation/Database ER.png)
 
-![Use case description](./documentation/usecase_diagram.png)
+![Use case description](/documentation/usecase_diagram.png)
 
 # Introduction
 - Etoet is a location tracking application that allows users to make friends
