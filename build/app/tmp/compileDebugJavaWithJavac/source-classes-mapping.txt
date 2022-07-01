@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/deltadeer/etoet/BuildConfig.java
+ com.deltadeer.etoet.BuildConfig
